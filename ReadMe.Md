@@ -9,3 +9,6 @@ name :solomon
 
 
 rita
+Name: Victoria Akilapa
+Occupation: Frontend Developer
+Mobile NUmber: 07083142443
