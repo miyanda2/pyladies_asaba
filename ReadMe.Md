@@ -12,3 +12,7 @@ rita
 Name: Victoria Akilapa
 Occupation: Frontend Developer
 Mobile NUmber: 07083142443
+
+Name: Opeoluwa Taiwo Oshifeko
+Occupation: Data Analyst
+Mobile Number: 08033779935
